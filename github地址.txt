@@ -1,1 +1,1 @@
-https://github.com/johnny-en/kkb-git-test.git
+GIT地址："https://github.com/johnny-en/kkb-git-test.git"
