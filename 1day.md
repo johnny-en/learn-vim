@@ -1,9 +1,9 @@
-###前置任务 
+### 前置任务 
 - `vscode` 安装 `vim` 插件
 - `window` 安装 [powertoys](https://github.com/microsoft/PowerToys) 改键 [^注意] 
 - 下载 `gvim` 编辑器，用于练习 
 
-###学习任务  
+### 学习任务  
 
 - vim 两种模式 `normal` 和 `insert` 模式
 
