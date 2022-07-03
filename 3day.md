@@ -36,6 +36,4 @@
 
   4. 删除当前光标之后的内容直到当前行尾：dL
 
-  > 学习了 `vim` 语法，可以通过操作和动词组合出非常多的指令，帮助提高工作效率
-
 [^注意]: 需要在 `settings.json` 配置 `vim.operatorPendingModeKeyBindings` 做重新映射
