@@ -51,7 +51,19 @@
 
     - `p`: 一个段落
 
+- `vim-textobj-arguments`: `vscode` 集成的 `vim` 处理函数的参数
+  
+    - `ia` 不包含分隔符
+
+    > `daa` 删除一个参数
+  
+    - `aa` 包含分隔符
+
+    > `cia` 修改一个参数
 
 
+- `vim-textobj-entire`
 
+  - `dae` 删除当前文本所有内容
 
+  - `die` 删除当前文本所有内容，但是不包含前端和后面的空格
